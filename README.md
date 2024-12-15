@@ -1,6 +1,7 @@
 # sudo-rm--rf
 Команда sudo rm -rf
 Участники:
+
 Степан Цой @ttssoy
 
 Трубников Андрей @AndreyTru02
